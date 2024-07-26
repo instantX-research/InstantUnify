@@ -1,10 +1,10 @@
 <div align="center">
 <h1>InstantUnify</h1>
 
-[**Qixun Wang**](https://github.com/wangqixun)<sup>1</sup> · [**Xu Bai**](https://github.com/Yue02280220)<sup>1</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>1*</sup>
+[**Qixun Wang**](https://github.com/wangqixun) · [**Xu Bai**](https://github.com/Yue02280220) · [**Haofan Wang**](https://haofanwang.github.io/)<sup>*</sup>
 
 
-<sup>1</sup>InstantX Team · <sup>2</sup>Tencent
+InstantX Team
 
 <sup>*</sup>corresponding authors
 
@@ -15,4 +15,11 @@
 [![GitHub](https://img.shields.io/github/stars/instantX-research/InstantUnify?style=social)](https://github.com/instantX-research/InstantUnify)
 
 
+</div>
+
+InstantUnify 
+
+
+<div align="center">
+<img src='assets/base.png' width = 900 >
 </div>
