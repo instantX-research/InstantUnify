@@ -25,3 +25,33 @@ InstantUnify integrates VLM into the diffusion model in the form of a plugin, en
 </div>
 
 Training VLM requires significant computational power. Although the current InstantUnify checkpoint has demonstrated the effectiveness of this approach, the image quality and details are still not up to expectations. We are urgently training InstantUnify, and as the training progresses, we will periodically update the results of the latest checkpoints until the final version is determined. Stay tuned for updates.
+
+
+# Demo
+Current checkpoint: 24k
+
+## Text-to-Image and IP-Guided Generation
+
+Under the current checkpoint, the text-to-image generation will strictly follow the guidance. The main subject of the inserted image can generally maintain consistency in the generated image and conform to the direction of the text guidance. However, the details are not accurately preserved.
+
+
+<img src='assets/ckp-24k_case-1.png' width = 900 >
+
+## ID-Guided and  Cloth-Guided Generation
+
+Under the current checkpoint, although the ID and clothing can follow the guidance, the details are still not good enough. Conflict issues that may arise under multiple guidances have not occurred, thanks to the powerful comprehension ability of VLM.
+
+<img src='assets/ckp-24k_case-2.png' width = 900 >
+
+## Control-Guided Generation
+
+Under the current checkpoint, control in the form of controlnet is somewhat effective for guiding the entire image, but guidance for canny edges and pose is essentially ineffective. The bad cases displayed have been marked with red boxes.
+
+<img src='assets/ckp-24k_case-3.png' width = 900 >
+
+
+# Todo
+
+It feels necessary to continue training further. There is such a shortage of computing power!!!!!
+
+
