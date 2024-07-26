@@ -1,7 +1,7 @@
 <div align="center">
 <h1>InstantUnify</h1>
 
-[**Qixun Wang**](https://github.com/wangqixun) · [**Xu Bai**](https://github.com/Yue02280220) · [**Haofan Wang**](https://haofanwang.github.io/)<sup>*</sup>
+[**Qixun Wang**](https://github.com/wangqixun) · [**Xu Bai**](https://github.com/Yue02280220) · [**Haofan Wang**](https://haofanwang.github.io/)<sup>*</sup> · [**Rui Wang**](https://wrong.wang/)
 
 
 InstantX Team
