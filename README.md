@@ -47,7 +47,7 @@ Under the current checkpoint, although the ID and clothing can follow the guidan
 
 Under the current checkpoint, control in the form of controlnet is somewhat effective for guiding the entire image, but guidance for canny edges and pose is essentially ineffective. The bad cases displayed have been marked with red boxes.
 
-<img src='assets/ckp-24k_case-3.png' width = 900 >
+<img src='assets/ckp-24k_case-3.png' width = 500 >
 
 
 # Todo
