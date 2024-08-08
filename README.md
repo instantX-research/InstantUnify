@@ -1,11 +1,12 @@
 <div align="center">
 <h1>InstantUnify</h1>
 
-[**Qixun Wang**](https://github.com/wangqixun) · [**Xu Bai**](https://github.com/Yue02280220) · [**Rui Wang**](https://wrong.wang/) · [**Haofan Wang**](https://haofanwang.github.io/)<sup>*</sup>
+[**Qixun Wang**](https://github.com/wangqixun)<sup>+</sup> · [**Xu Bai**](https://github.com/Yue02280220)<sup>+</sup> · [**Rui Wang**](https://wrong.wang/)<sup>+</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>+</sup><sup>*</sup>
 
 
 InstantX Team
 
+<sup>+</sup>equal contributions
 <sup>*</sup>corresponding authors
 
 
